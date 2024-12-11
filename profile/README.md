@@ -7,7 +7,7 @@ Canonical is a product artifact creation platform. kindof like GitHub and VSCode
 
 ## Get started
 
-Canonical is currently in beta. See the live demo at [Canonical-Beta](https://canonical-dev-b6afd.firebaseapp.com/) and sign up for your own personal project
+Canonical is currently in beta. See the live demo at [Canonical-Beta]([https://canonical-dev-b6afd.firebaseapp.com/](https://canonical-prod.web.app/document/7Smjq3YGDK2YW2ULrbMv?v=1.0.0) and sign up for your own personal project
 
 ## Special Thanks
 
